@@ -3,10 +3,10 @@
 ![](https://github.com/ktamayop/static/blob/master/karel-family.jpeg?raw=true)
 
 ### Hi there!
-I'm a Software Engineer with 12+ years of experience. I was born in Cuba and currently living in (and loving) Montevideo, Uruguay since March, 2017. I'm married, Yenny, and we have a gorgeus 4-month-old little girl Ema that's the world to us. 
+I'm a Software Engineer with 12+ years of experience. I was born in Cuba and currently living in (and loving) Montevideo, Uruguay since March, 2017. I've been married to one of the best human beings on earth for seven years now - Yenny - and we have that gorgeus 4-month-old little girl in the picture above - Ema - that's the world to us. 
 
 ### About Me
-I had contact with my first PC back in 1995 and I was hooked up forever with computers. I started learning BASIC and later Turbo Pascal in 1998 for a High School Programming Contest at my hometown in Cuba. I got my Bachelor's Degree at University of Computer Sciences (UCI), Havana, Cuba in 2007.
+I had contact with my first PC back in 1995 and I was hooked up forever with computers. I started learning BASIC and later Turbo Pascal in 1998 for a High School Programming Contest at my hometown. I got my Bachelor's Degree at University of Computer Sciences (UCI), Havana, Cuba in 2007.
 
 ## What I value:
 * Family
