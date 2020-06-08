@@ -12,7 +12,7 @@ I had contact with my first PC back in 1995 and I was hooked up forever with com
 * Family
 * Quality over quantity (specially when talking about friends)
 * Hard work
-* Teamwork over rock stars and lonely wolfs
+* Teamwork over rock stars and lonely wolves
 * Brutal honesty
 * Persistence
 
